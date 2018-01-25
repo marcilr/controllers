@@ -8,3 +8,5 @@ Filelist
 controllers.txt
   Controllers for use in nas
 
+manifest
+  Manifest for resync application
